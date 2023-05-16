@@ -1,0 +1,18 @@
+id: I6995B036
+default_language: it
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:28:46.777032
+last_modified: 2023-01-04 11:28:46.777050
+source_metadata:
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+bases:
+  C850:
+    title: Long Life Prayer for Patrick Gaffney (Yeshé Wangyal)
+    base_file: C850.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
